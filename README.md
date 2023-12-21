@@ -1,4 +1,4 @@
-Hey folks, remember the thrill of 90's gaming? Let's step back in time and relive those exciting moments! With the game deployed on Kubernetes, it's time to dive into the nostalgic world of Mario. Grab your controllers, it's game time!
+#Hey folks, remember the thrill of 90's gaming? Let's step back in time and relive those exciting moments! With the game deployed on Kubernetes, it's time to dive into the nostalgic world of Mario. Grab your controllers, it's game time!
 
 Super Mario is a classic game loved by many. In this guide, we'll explore how to deploy a Super Mario game on Amazon's Elastic Kubernetes Service (EKS). Utilizing Kubernetes, we can orchestrate the game's deployment on AWS EKS, allowing for scalability, reliability, and easy management.
 
@@ -103,7 +103,7 @@ Now clone this Repo.
 COPY
 
 COPY
-git clone https://github.com/Aj7Ay/k8s-mario.git
+git clone [https://github.com/shakirbhattt/K8s-Super-Mario.git]
 
 
 change directory
